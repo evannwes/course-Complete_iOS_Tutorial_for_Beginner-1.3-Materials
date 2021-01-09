@@ -1,1 +1,5 @@
-# course-Complete_iOS_Tutorial_for_Beginner-1.3-Materials
+# Materials For Complete iOS Tutorial Lesson 1.3
+This full course of this lesson can be found in https://appdevelopments.co/course/fullios
+
+### Copyright
+The materials not not for distribution and it is only meant to be used in the for the lesson.
